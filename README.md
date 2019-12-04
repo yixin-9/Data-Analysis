@@ -6,14 +6,14 @@
 #### It will query the preprocessed data and display the state's energy consumption as a percentage of that state's total energy consumption.
 
 #### Data.csv file
-![Image of datacsv](https://github.com/yixin-9/Book-Website/blob/master/Homepage.png)
+![Image of datacsv](https://github.com/yixin-9/Data-Analysis/blob/master/Images/DataCSV.png)
 
 #### Mask ppm
-![Image of mask](https://github.com/yixin-9/Book-Website/blob/master/Homepage.png)
+![Image of mask](https://github.com/yixin-9/Data-Analysis/blob/master/Images/mask.jpg)
 
 #### Graph ppm (Result)
-![Image of graphppm](https://github.com/yixin-9/Book-Website/blob/master/Homepage.png)
+![Image of graphppm](https://github.com/yixin-9/Data-Analysis/blob/master/Images/graph.jpg)
 
 #### Graph (Result)
-![Image of graph](https://github.com/yixin-9/Book-Website/blob/master/Homepage.png)
+![Image of graph](https://github.com/yixin-9/Data-Analysis/blob/master/Images/Graph%25.png)
 
